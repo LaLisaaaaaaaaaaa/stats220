@@ -2,10 +2,10 @@
 
 Photography is the art of freezing moments in time.
 
-## Types of Photography
+## Types of Photography 
 
 * landscape 🌻
-* portrait 🙍
+* portrait 🧕
 * animal 🐕
 * street 🏛️
 * ......
